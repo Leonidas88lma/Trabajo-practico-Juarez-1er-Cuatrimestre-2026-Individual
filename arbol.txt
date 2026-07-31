@@ -1,0 +1,16 @@
+#ID;Nombre;Costo;ESTADISTICA:Valor
+0;Raiz;0;VIDA:0
+1;Fuerza Vital;1;VIDA:20
+2;Mente Brillante;1;MANA:15
+3;Piel de Hierro;2;ARMADURA:5
+4;Filo Comunal;2;DANO_ATAQUE:8
+5;Poder Arcano;2;DANO_HECHIZO:10
+6;Pantalla Leonida;4;ARMADURA:14
+[CONEXIONES]
+#ORIGEN;DESTINO
+0;1
+1;2
+1;3
+2;4
+2;5
+4;6
