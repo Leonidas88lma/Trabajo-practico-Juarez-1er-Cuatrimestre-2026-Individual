@@ -11,7 +11,7 @@
 
 ## Entregables:
 
-1. [Informe de complejidad algorítmica](https://drive.google.com/file/d/1bHbfyPOCWtuQZzFM_nMFA0fjiOGvJjb5/view?usp=sharing)
+1. [Informe de complejidad algorítmica](https://drive.google.com/file/d/1SR3g2WOQEwydnQWnkoWwGgiEfC-jZr0Z/view?usp=drive_link)
 
 ## Configuración del proyecto
 
